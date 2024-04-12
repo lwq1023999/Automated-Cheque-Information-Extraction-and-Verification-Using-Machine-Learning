@@ -6,8 +6,9 @@ This repository contains code and notebooks for automating cheque information ex
 
 To run the provided notebooks and scripts, ensure you have the following dependencies installed:
 
-- Python (3.x recommended)
+- Python 3.6+
 - Jupyter Notebook or JupyterLab
+- OpenCV
 - pandas
 - matplotlib
 - PyTesseract (for OCR)
@@ -17,6 +18,13 @@ You can install the required Python packages using pip:
 
 ```bash
 pip install pandas matplotlib pytesseract
+```
+
+## Notebooks and Scripts
+Cheque_Object_Detection.ipynb: Notebook for detecting cheque objects using machine learning models.
+OCR.ipynb: Notebook demonstrating Optical Character Recognition (OCR) techniques for extracting text from cheque images.
+YOLOv8 Model Epochs Comparison.ipynb: Notebook comparing YOLOv8 model performance based on epochs.
+YOLOv8 Model Version Comparison.ipynb: Notebook comparing different versions of the YOLOv8 model.
 
 ## Notes
 
