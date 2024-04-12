@@ -15,9 +15,9 @@ To run the provided notebooks and scripts, ensure you have the following depende
 
 ## Notebooks and Scripts
 - [Cheque_Object_Detection.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/Cheque_Obeject_Detection.ipynb): Notebook for detecting cheque objects using machine learning models.
-- [OCR.ipynb](OCR.ipynb): Notebook demonstrating Optical Character Recognition (OCR) techniques for extracting text from cheque images.
-- [YOLOv8 Model Epochs Comparison.ipynb](YOLOv8%20Model%20Epochs%20Comparison.ipynb): Notebook comparing YOLOv8 model performance based on epochs.
-- [YOLOv8 Model Version Comparison.ipynb](YOLOv8%20Model%20Version%20Comparison.ipynb): Notebook comparing different versions of the YOLOv8 model.
+- [OCR.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/OCR.ipynb): Notebook demonstrating Optical Character Recognition (OCR) techniques for extracting text from cheque images.
+- [YOLOv8 Model Epochs Comparison.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/YOLOv8%20Model%20Epochs%20Comparison.ipynb): Notebook comparing YOLOv8 model performance based on epochs.
+- [YOLOv8 Model Version Comparison.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/YOLOv8%20Model%20Version%20Comparison.ipynb): Notebook comparing different versions of the YOLOv8 model.
 
 ## Notes
 
