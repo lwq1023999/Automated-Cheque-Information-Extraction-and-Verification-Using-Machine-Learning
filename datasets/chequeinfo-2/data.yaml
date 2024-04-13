@@ -1,0 +1,17 @@
+names:
+- Amount_digit
+- Amount_hand
+- Date
+- MICR
+- Name
+- Signature
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: chequeinfo
+  url: https://universe.roboflow.com/logo-fjdbt/chequeinfo/dataset/2
+  version: 2
+  workspace: logo-fjdbt
+test: ../test/images
+train: ../train/images
+val: ../valid/images
