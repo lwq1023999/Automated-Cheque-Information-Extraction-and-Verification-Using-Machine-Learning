@@ -4,7 +4,7 @@ This repository contains code and notebooks for automating cheque information ex
 
 ## Requirements
 
-To run the provided notebooks and scripts, ensure you have the following dependencies installed:
+To run the provided notebooks and scripts, ensure you have the following dependencies installed that are written in the [requirments.txt](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/requirements.txt). Below are some of the example.
 - Python 3.6+
 - OpenCV
 - pandas
