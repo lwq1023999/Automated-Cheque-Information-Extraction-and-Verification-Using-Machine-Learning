@@ -24,6 +24,7 @@ To run the provided notebooks and scripts, ensure you have the following depende
 
    # Load the custom trained model
    model = YOLO('C:/Users/Admin/Documents/ultralytics/runs/detect/train12/weights/best.onnx')
+   ```
 
 ## Notebooks and Scripts
 - [Cheque_Object_Detection.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/Cheque_Obeject_Detection.ipynb): Notebook for detecting cheque objects using machine learning models.
