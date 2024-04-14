@@ -13,6 +13,18 @@ To run the provided notebooks and scripts, ensure you have the following depende
 - PyTesseract
 - YOLOv8 for object detection
 
+## Instructions
+1. Clone or download this repository to your local machine.
+2. Install the required [dependencies](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/requirements.txt).  using pip.
+3. Download the pre-trained model
+4.  **Load the Model**:
+   Use the following Python code to load the custom trained YOLOv8 model:
+   ```python
+   from yolov8 import YOLO
+
+   # Load the custom trained model
+   model = YOLO('C:/Users/Admin/Documents/ultralytics/runs/detect/train12/weights/best.onnx')
+
 ## Notebooks and Scripts
 - [Cheque_Object_Detection.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/Cheque_Obeject_Detection.ipynb): Notebook for detecting cheque objects using machine learning models.
 - [OCR.ipynb](https://github.com/lwq1023999/Automated-Cheque-Information-Extraction-and-Verification-Using-Machine-Learning/blob/main/OCR.ipynb): Notebook demonstrating Optical Character Recognition (OCR) techniques for extracting text from cheque images.
